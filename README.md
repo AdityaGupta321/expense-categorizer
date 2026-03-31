@@ -166,5 +166,7 @@ python app.py --file my_bank.csv --col narration --summary --save
 ## Author
 
 Aditya Gupta
+
 Reg. No.: 25BAI11549 
+
 VIT Bhopal University
